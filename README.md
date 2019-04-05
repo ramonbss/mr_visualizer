@@ -12,15 +12,15 @@ A Python visualization helper for the first and fundamentals topics from Courser
 ### Usage
     python mr_visualizer.py
 
-###Transformation:</p>
+<h4>Transformation:</h4>  
 <p align="center">
-    <img src="./docs/images/mr_transform.gif" width="600" alt="Transformation example"></br>
-</p>
-###W_hat rotation vector:</p>
+    <img src="./docs/images/mr_transform.gif" width="600" alt="Transformation example">
+</p>  
+<h4>W rotation vector:</h4>
 <p align="center">
-    <img src="./docs/images/mr_w.gif" width="600" alt="Transformation example"></br>
+    <img src="./docs/images/mr_w.gif" width="600" alt="Transformation example">
 </p>
-###Screw axis Rotation/Translation vector:</p>
+<h4>Screw axis Rotation/Translation vector:</h4>
 <p align="center">
     <img src="./docs/images/mr_screw.gif" width="600" alt="Transformation example"></br>
 </p>
