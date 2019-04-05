@@ -13,7 +13,6 @@ A Python visualization helper for the first and fundamentals topics from Courser
     python mr_visualizer.py
 
 **Transformation:-**
-<img src="https://cldup.com/dTxpPi9lDf.thumb.png" width="600" alt="Transformation example">
 <img src="./docs/images/mr_transform.gif" width="600" alt="Transformation example">
 **W_hat rotation vector:-**
 <img src="./docs/images/mr_w.gif" width="600" alt="Transformation example">
