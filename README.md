@@ -3,13 +3,13 @@ A Python visualization helper for the first and fundamentals topics from Courser
 
 - **Course link:** https://www.coursera.org/specializations/modernrobotics
 
+This program incorporate the Transform class from robopy ( https://github.com/adityadua24/robopy ) in its source code.  
 
 **Dependencies:**
 - modern_robotics ( Specialization package )
 - PyQt 5.5
 - Numpy
-- tk
-- This program makes use of the Transform class from robopy ( https://github.com/adityadua24/robopy )  
+- tk  
 
 **Installation:**  
 sudo apt-get install python3-tk python3-numpy pyqt5-dev  
