@@ -11,7 +11,7 @@ A Python visualization helper for the first and fundamentals topics from Courser
 - tk
 - This program makes use of the Transform class from robopy ( https://github.com/adityadua24/robopy )
 
-sudo apt-get install python3-tk python3-numpy pyqt5-dev
+sudo apt-get install python3-tk python3-numpy pyqt5-dev  
 pip3 install modern_robotics
 
 ### Usage
