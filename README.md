@@ -5,12 +5,17 @@ A Python visualization helper for the first and fundamentals topics from Courser
 
 
 **Dependencies:**
-- modern_robotics ( Specialization package -> pip install modern_robotics )
+- modern_robotics ( Specialization package )
 - PyQt 5.5
-- Numpy
+- Numpy ( sudo
+- tk
+- This program makes use of the Transform class from robopy ( https://github.com/adityadua24/robopy )
+
+sudo apt-get install python3-tk python3-numpy pyqt5-dev
+pip3 install modern_robotics
 
 ### Usage
-    python mr_visualizer.py
+    python3 Visualizer.py
 
 <h4>Transformation:</h4>  
 <p align="center">
